@@ -1,4 +1,6 @@
-### Hi there 👋
+I am a research assistant in the [Vision for Robotics (V4R)](https://www.acin.tuwien.ac.at/vision-for-robotics/) group of [Markus Vincze](https://scholar.google.com/citations?user=bdEbeaQAAAAJ&hl=de&oi=ao) at the [Automation and Control Institute](https://www.acin.tuwien.ac.at/) at TU Wien.
+
+I focus on improving synthetic dataset generation, object detection and pose estimation for robot vision. The goal of my research is to make robot vision more reliable for object grasping, especially for challenging material properties such as metallic, textureless or transparent objects and ideally without the need for depth information.
 
 <!--
 **hoenigpeter/hoenigpeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
